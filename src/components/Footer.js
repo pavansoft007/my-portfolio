@@ -9,8 +9,8 @@ const Footer = () => {
           &copy; 2024 My Portfolio. All rights reserved.
         </Typography>
         <div className="flex justify-center space-x-4">
-          <Button color="inherit" href="https://github.com" target="_blank">GitHub</Button>
           <Button color="inherit" href="https://www.linkedin.com/in/pavankumar-doddi-3b1988b5" target="_blank">LinkedIn</Button>
+          <Button color="inherit" href="https://github.com" target="_blank">GitHub</Button>
         </div>
       </Container>
     </footer>
