@@ -1,0 +1,62 @@
+[
+    {
+      "title": "CarTradeExchange.com",
+      "description": "CarTradeExchange.com is an innovative web platform designed to streamline the buying and selling process of used cars. The platform serves as a comprehensive marketplace for car dealers, individual sellers, and buyers, offering a seamless and efficient experience from listing to transaction completion.",
+      "technologyStack": {
+        "frontEnd": "React.js for a dynamic and responsive user interface.",
+        "backEnd": "Node.js and PHP for robust server-side logic and handling API requests.",
+        "database": "MySQL and MongoDB for efficient data storage and retrieval."
+      },
+      "developmentProcess": [
+        "Requirement Gathering: Collaborated with stakeholders to gather and document all requirements.",
+        "Design and Prototyping: Created wireframes and prototypes to visualize the user interface and user experience.",
+        "Front-End Development: Implemented the user interface using React.js, ensuring responsiveness and usability.",
+        "Back-End Development: Developed the server-side logic with Node.js and PHP, integrating it with the MySQL and MongoDB databases.",
+        "Testing: Conducted thorough testing to identify and fix bugs, ensuring a stable and reliable platform.",
+        "Deployment: Deployed the platform to a production environment, ensuring scalability and performance optimization.",
+        "Maintenance and Updates: Ongoing maintenance and updates to introduce new features and improve existing ones."
+      ],
+      "image": "cartrade.jpg"
+    },
+    {
+      "title": "Admin.CarTradeExchange.com",
+      "description": "Admin.CarTradeExchange.com is a robust administrative platform designed to manage and oversee the operations of CarTradeExchange.com. It provides comprehensive tools for administrators to manage users, listings, transactions, and system settings, ensuring smooth and efficient operation of the marketplace.",
+      "technologyStack": {
+        "frontEnd": "React.js for a dynamic and responsive user interface, providing an intuitive and efficient user experience for administrators.",
+        "backEnd": "Node.js and PHP for server-side logic, handling API requests, and managing data operations.",
+        "database": "MySQL and MongoDB for storing and retrieving data efficiently, ensuring reliability and performance."
+      },
+      "developmentProcess": [
+        "Requirement Gathering: Collaborated with stakeholders to gather and document all administrative requirements and use cases.",
+        "Design and Prototyping: Created wireframes and prototypes to visualize the admin interface and user workflows.",
+        "Front-End Development: Implemented the user interface using React.js, ensuring usability and responsiveness.",
+        "Back-End Development: Developed the server-side logic with Node.js and PHP, integrating it with MySQL and MongoDB databases.",
+        "Testing: Conducted thorough testing to identify and fix bugs, ensuring a stable and reliable admin platform.",
+        "Deployment: Deployed the admin platform to a production environment, ensuring scalability and performance optimization.",
+        "Maintenance and Updates: Ongoing maintenance and updates to introduce new features and improve existing ones."
+      ],
+      "image": "cartrade.jpg"
+    },
+    {
+      "title": "Payments.CarTradeExchange.com",
+      "description": "Payments.CarTradeExchange.com is a specialized platform designed to handle all payment-related activities for CarTradeExchange.com. It provides secure and efficient payment processing, transaction management, and financial reporting, ensuring seamless and trustworthy transactions between buyers and sellers.",
+      "technologyStack": {
+        "frontEnd": "Vue.js for a modern, responsive, and user-friendly interface.",
+        "backEnd": "Node.js and PHP for robust server-side logic and API handling.",
+        "database": "MySQL and MongoDB for efficient data storage and retrieval.",
+        "paymentGateways": "Integration with popular payment gateways such as PayPal, Stripe, and others for secure payment processing."
+      },
+      "developmentProcess": [
+        "Requirement Gathering: Collaborated with stakeholders to understand and document all payment-related requirements and compliance needs.",
+        "Design and Prototyping: Developed wireframes and prototypes to visualize the user interface and user experience.",
+        "Front-End Development: Implemented the user interface using Vue.js, ensuring a responsive and intuitive experience.",
+        "Back-End Development: Developed server-side logic using Node.js and PHP, integrating with MySQL and MongoDB databases.",
+        "Integration with Payment Gateways: Implemented secure integration with multiple payment gateways, ensuring reliable payment processing.",
+        "Testing: Conducted extensive testing to identify and resolve bugs, ensuring secure and reliable payment transactions.",
+        "Deployment: Deployed the payment platform to a production environment, ensuring scalability and performance optimization.",
+        "Maintenance and Updates: Ongoing maintenance and updates to introduce new features, enhance security, and improve performance."
+      ],
+      "image": "cte-payments.jpg"
+    }
+  ]
+  

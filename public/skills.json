@@ -1,0 +1,14 @@
+[
+    { "name": "HTML", "level": "Expert" },
+    { "name": "CSS", "level": "Expert" },
+    { "name": "JavaScript", "level": "Expert" },
+    { "name": "React.js", "level": "Advanced" },
+    { "name": "Node.js", "level": "Advanced" },
+    { "name": "Vue.js", "level": "Intermediate" },
+    { "name": "TypeScript", "level": "Advanced" },
+    { "name": "Express.js", "level": "Advanced" },
+    { "name": "MySQL", "level": "Advanced" },
+    { "name": "MongoDB", "level": "Advanced" },
+    { "name": "PHP", "level": "Expert" }
+  ]
+  
